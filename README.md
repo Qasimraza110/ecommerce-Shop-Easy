@@ -1,4 +1,4 @@
-# E-Commerce Website
+# E-Commerce Website 
 
 A modern e-commerce website built with PHP and MySQL, featuring a responsive design and essential e-commerce functionality.
 
